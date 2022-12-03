@@ -13,3 +13,8 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
+
+##Future Scope
+Use multiple Algorithms
+Optimize Flask app.py
+Front-End
