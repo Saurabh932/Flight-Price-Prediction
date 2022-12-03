@@ -15,6 +15,6 @@ pip install -r requirements.txt
 ```
 
 ## Future Scope
-# Use multiple Algorithms
-# Optimize Flask app.py
-# Front-End
+* Use multiple Algorithms
+* Optimize Flask app.py
+* Front-End
